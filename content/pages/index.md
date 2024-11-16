@@ -7,9 +7,7 @@ sections:
     subtitle: >-
       Strategie creative per far crescere il tuo business. Con Rosaserve, il
       marketing diventa semplice e potente.
-    text: |+
-
-
+    text: ''
     actions:
       - type: Button
         label: Start Building
