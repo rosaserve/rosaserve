@@ -7,10 +7,9 @@ sections:
     subtitle: >-
       Strategie creative per far crescere il tuo business. Con Rosaserve, il
       marketing diventa semplice e potente.
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |+
+
+
     actions:
       - type: Button
         label: Start Building
