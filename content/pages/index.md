@@ -4,7 +4,9 @@ type: Page
 sections:
   - type: HeroSection
     title: RosaServe
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: >-
+      Strategie creative per far crescere il tuo business. Con Rosaserve, il
+      marketing diventa semplice e potente.
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
