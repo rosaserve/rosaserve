@@ -23,7 +23,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/5-key-areas-for-online-marketing-success.jpg
+      url: /images/Progetto senza titolo (1).png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
